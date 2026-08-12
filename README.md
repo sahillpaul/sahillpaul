@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sahil  <br>🎓 2nd Year CSE Undergraduate passionate about Full Stack Development  <br><br>💻 Tech Stack:<br>- Frontend: HTML, CSS, JavaScript, React, Next.js<br>- Backend: Node.js, Express.js<br>- Languages: JavaScript, Python, Java, GoLang<br>- Databases: MongoDB, SQL<br>- Tools & Technologies: Git, GitHub, REST APIs<br><br>🚀 I love building real-world projects, exploring new technologies, and improving my problem-solving skills every day.<br><br>🌱 Currently learning advanced backend architecture, scalable systems, and modern web technologies.
+👋 Hi, I'm Sahil  <br>🎓 3rd Year CSE Undergraduate passionate about Full Stack Development  <br><br>💻 Tech Stack:<br>- Frontend: HTML, CSS, JavaScript, React, Next.js<br>- Backend: Node.js, Express.js<br>- Languages: JavaScript, Python, Java, GoLang<br>- Databases: MongoDB, SQL<br>- Tools & Technologies: Git, GitHub, REST APIs<br><br>🚀 I love building real-world projects, exploring new technologies, and improving my problem-solving skills every day.<br><br>🌱 Currently learning advanced backend architecture, scalable systems, and modern web technologies.
 
 
 ## 🌐 Socials:
